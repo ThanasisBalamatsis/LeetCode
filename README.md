@@ -1,7 +1,7 @@
 # LeetCode
 
 **This is a collection of LeetCode problems.<br/>
-In the first column, a link to the description of the problem is provided, while a link to my solution is provided in the third column.**
+In the first column, a link to the description of the problem is provided, <br/>while a link to my solution is provided in the third column.**
 
 | **Problem** | **Language** | **Solution** |
 | ------- | -------- | -------- |
