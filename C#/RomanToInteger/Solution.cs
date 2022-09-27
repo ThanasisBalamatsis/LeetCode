@@ -7,15 +7,15 @@
             bool skipIteration = false;
             int result = 0;
             Dictionary<char, int> charIntPairs = new Dictionary<char, int>()
-                    {
-                        {'I',  1},
-                        {'V',  5},
-                        {'X',  10},
-                        {'L',  50},
-                        {'C',  100},
-                        {'D',  500},
-                        {'M',  1000}
-                    };
+            {
+                {'I',  1},
+                {'V',  5},
+                {'X',  10},
+                {'L',  50},
+                {'C',  100},
+                {'D',  500},
+                {'M',  1000}
+            };
             Dictionary<string, int> stringIntPairs = new Dictionary<string, int>()
             {
                 {"IV", 4 },
