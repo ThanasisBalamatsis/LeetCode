@@ -7,3 +7,4 @@ In the first column, a link to the description of the problem is provided, <br/>
 | ------- | -------- | -------- |
 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | C# | [Link](https://github.com/ThanasisBalamatsis/LeetCode/blob/main/C%23/RomanToInteger/Solution.cs) |
 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | T-SQL | [Link](https://github.com/ThanasisBalamatsis/LeetCode/blob/main/T-SQL/Second%20Highest%20Salary/Solution.sql) |
+| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | C# | [Link](https://github.com/ThanasisBalamatsis/LeetCode/blob/main/C%23/Fizz%20Buzz/Solution.cs) |
