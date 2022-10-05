@@ -1,5 +1,5 @@
 ﻿
-namespace ReductToZero
+namespace ReduceToZero
 {
     public class Solution
     {
