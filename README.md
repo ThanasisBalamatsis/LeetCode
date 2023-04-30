@@ -15,3 +15,4 @@ In the first column, a link to the description of the problem is provided, <br/>
 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/) | T-SQL | [Link](https://github.com/ThanasisBalamatsis/LeetCode/blob/main/T-SQL/Customers%20Who%20Never%20Order/Solution.sql) |
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | C# | [Link](https://github.com/ThanasisBalamatsis/LeetCode/blob/main/C%23/PalindromeNumber/Solution.cs) |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | C# | [Link](https://github.com/ThanasisBalamatsis/LeetCode/blob/main/C%23/Search%20Insert%20Position/Solution.cs) |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | C# | [Link](https://github.com/ThanasisBalamatsis/LeetCode/blob/main/C%23/Group%20Anagrams/Solution.cs) |
