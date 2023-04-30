@@ -14,3 +14,4 @@ In the first column, a link to the description of the problem is provided, <br/>
 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/) | T-SQL | [Link](https://github.com/ThanasisBalamatsis/LeetCode/blob/main/T-SQL/Combine%20Two%20Tables/Solution.sql) |
 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/) | T-SQL | [Link](https://github.com/ThanasisBalamatsis/LeetCode/blob/main/T-SQL/Customers%20Who%20Never%20Order/Solution.sql) |
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | C# | [Link](https://github.com/ThanasisBalamatsis/LeetCode/blob/main/C%23/PalindromeNumber/Solution.cs) |
+| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | C# | [Link](https://github.com/ThanasisBalamatsis/LeetCode/blob/main/C%23/Search%20Insert%20Position/Solution.cs) |
